@@ -30,6 +30,6 @@ To try the application follow this link: https://camillatofani.github.io/People/
 ### Contact
 <a name="contact"></a>
 
-LinkedIn https://www.linkedin.com/in/camilla-tofani-3b284a103/
-My Personal https://www.camillatofani.it/
-GitHub https://github.com/camillatofani
+1. LinkedIn https://www.linkedin.com/in/camilla-tofani-3b284a103/
+2. My Personal https://www.camillatofani.it/
+3. GitHub https://github.com/camillatofani
